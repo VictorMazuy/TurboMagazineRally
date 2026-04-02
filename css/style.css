@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@500;700&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+
+body {
+
+  background-color: #FFFFFF;
+
+  background-image: url('../images/drone fpv.avif');
+
+  background-size: 130%;
+
+  background-repeat: no-repeat;
+
+  background-position: center 52%;
+
+  font-family: 'Inter', sans-serif;
+
+  font-size: 28px;
+
+  color: #1A1A1A;
+
+}
+
+
+h1, h2, h3, ul {
+
+  font-family: 'Playfair Display', serif;
+
+  font-weight: 600;
+
+}
+
+.btn-blue {
+  background-color: #0330A6;
+  color: white;
+  padding : 17px 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  ;
+}
+
+
+a {
+
+  text-decoration: none;
+
+  color: #C1121F; 
+
+}
+
+
+
+a:hover {
+
+  color: #780000;
+
+}
+
+
+
+.cards {
+
+  margin-bottom: 40px;
+
+}
+
+h2 {
+  color : white;
+}
